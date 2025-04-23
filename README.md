@@ -18,7 +18,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/YasinArafatRajon](https://github.com/YasinArafatRajon)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
+<!-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)-->
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
